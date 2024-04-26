@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2024-04-26T15:14:39.040Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RDOnJkP5eT7t11Yo6u6O" version="24.0.7" type="device">
+  <diagram name="Страница — 1" id="TueHHLBCHf0Qo4le_wLM">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9cAwHkuUef7XqfceChT2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9cAwHkuUef7XqfceChT2-1" target="9cAwHkuUef7XqfceChT2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cAwHkuUef7XqfceChT2-1" value="&lt;pre style=&quot;font-family: var(--font-family-code); overflow: auto; padding: calc(12px*var(--zoom)); font-size: 15px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;font color=&quot;#abb6ff&quot;&gt;Пользователь&lt;/font&gt;&lt;/pre&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9cAwHkuUef7XqfceChT2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9cAwHkuUef7XqfceChT2-3" target="9cAwHkuUef7XqfceChT2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cAwHkuUef7XqfceChT2-3" value="&lt;pre style=&quot;font-family: var(--font-family-code); overflow: auto; padding: calc(12px*var(--zoom)); font-size: 15px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;Аутентификация и авторизация&lt;/pre&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9cAwHkuUef7XqfceChT2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9cAwHkuUef7XqfceChT2-5" target="9cAwHkuUef7XqfceChT2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9cAwHkuUef7XqfceChT2-5" value="&lt;pre style=&quot;font-family: var(--font-family-code); overflow: auto; padding: calc(12px*var(--zoom)); font-size: 15px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;Серверная часть&lt;/pre&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="9cAwHkuUef7XqfceChT2-7" value="&lt;pre style=&quot;font-family: var(--font-family-code); overflow: auto; padding: calc(12px*var(--zoom)); font-size: 15px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;База данных&lt;/pre&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+          <mxGeometry x="650" y="270" width="270" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
